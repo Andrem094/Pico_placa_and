@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pico Y placa</string>
+    <string name="horario">Horario de restriccíon de 7:30 am a 7:00 pm</string>
+    <string name="placa">Mi placa</string>
+    <string name="proximo">Proximo dia de pico y placa</string>
+    <string name="regre">Regresar</string>
+    <string name="ini">Inicio</string>
+    <string name="nop">HOY NO TIENE PICO Y PLACA</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pico y Placa</string>
+    <string name="horario">Restriction schedule 7:30 am to 7:00 pm</string>
+    <string name="placa">My plate</string>
+    <string name="proximo">Next day  of Pico  placa</string>
+    <string name="regre">Back</string>
+    <string name="ini">Home</string>
+    <string name="nop">TODAY YOU DON\'T PICO Y PLACA</string>
+</resources>
